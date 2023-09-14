@@ -6,6 +6,9 @@ Team: 404NotFound
 * <a href="#TeamMember">Team structure</a><br>
 * <a href="#Struct">Repository Structure</a><br>
 * <a href="#ChangeLog">Changelog</a><br>
+* <a href="#Deployed App">Deployed App</a><be>
+* <a href="#Database Information">Database Information</a><be>
+* <a href="#Test Cases and Data Entry Document">Test Cases and Data Entry Document</a><br>
 
 <h2 id="TeamMember">Team Members:</h2>
 1. Shuowen Yu
@@ -53,4 +56,13 @@ Tag: SWEN90007_2023_Part1_404NotFound
 
  - Implement one use case: admin view the company listings
  - Deploy the system to Render
+
+<h2 id="Deployed App">Deployed App</h2>
+Our application is deployed at /////////////////////. The app includes a populated database with a range of realistic data samples for testing purposes.
+
+<h2 id="Database Information">Database Information</h2>
+For detailed information about the database and the data samples, please refer to ///////////
+
+<h2 id="Test Cases and Data Entry Document">Test Cases and Data Entry Document</h2>
+For detailed information about the data samples and how to use those test cases, please refer to ///////////////////
 
