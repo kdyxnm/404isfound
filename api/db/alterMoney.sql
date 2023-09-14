@@ -1,0 +1,15 @@
+ALTER TABLE public.companyuser
+ALTER COLUMN balance TYPE NUMERIC(20,2) USING balance::NUMERIC(20,2);
+
+
+ALTER TABLE public.customer
+ALTER COLUMN balance TYPE NUMERIC(20,2) USING balance::NUMERIC(20,2);
+
+
+
+ALTER TABLE public.company
+ALTER COLUMN balance TYPE NUMERIC(20,2) USING balance::NUMERIC(20,2);
+
+
+ALTER TABLE public.share
+ALTER COLUMN price TYPE NUMERIC(20,2) USING price::NUMERIC(20,2);
